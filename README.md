@@ -1,51 +1,90 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+PRIMEIRO VIDEO USADO UM AVATAR GERADO PO IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+projeto visa um rapido teste feito usado um avatar criado pelo D-ID.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
+Chat-bot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+inciado explorando a ferramenta D-ID usando dos templates diisponíves para executar o teste. 
+Entretando houve limitações e nao foi possivel aplicato por completo o template usado.  
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultado foi esperado. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Notei que há uma limitação para uma melhor resolução de imagem entre backgrou e avatar mas ainda sim, promissor. 
 
-### Exemplos e Insigths
+## Não foi possivel adicionar o roteiro completo no video mas a base será adicionada nesse Readme. 
+Vamos criar um menu vegetariano para um dia, garantindo que as refeições sejam saborosas e nutricionalmente balanceadas. Considerando um nível de atividade física moderada, a ingestão calórica recomendada é cerca de 2000 kcal por dia para alguém de 76 kg e 1,70 m de altura.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Café da Manhã:
+Smoothie Verde
 
-## Links Interessantes
+1 banana
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+1 xícara de espinafre fresco
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+1 maçã verde
+
+1 colher de chá de chia
+
+1 xícara de leite de amêndoa (ou outro leite vegetal)
+
+1 colher de sopa de aveia
+
+Calorias: Aproximadamente 300 kcal
+
+Almoço:
+Salada de Quinoa com Legumes
+
+1 xícara de quinoa cozida
+
+1/2 xícara de grão-de-bico cozido
+
+1/2 xícara de tomate-cereja
+
+1/2 xícara de pepino picado
+
+1/4 xícara de cebola roxa picada
+
+2 colheres de sopa de azeite de oliva
+
+Suco de 1 limão
+
+Sal e pimenta a gosto
+
+Calorias: Aproximadamente 600 kcal
+
+Jantar:
+Tofu Grelhado com Legumes Assados
+
+150g de tofu firme
+
+1 colher de sopa de shoyu (molho de soja)
+
+1 colher de chá de gengibre ralado
+
+1 dente de alho amassado
+
+1 xícara de brócolis
+
+1 xícara de cenoura
+
+1 xícara de abobrinha
+
+1 colher de sopa de azeite de oliva
+
+Calorias: Aproximadamente 500 kcal
+
+Lanches (Distribuídos ao longo do dia):
+1. Maçã com 1 colher de sopa de manteiga de amendoim 2. Iogurte vegetal com frutas vermelhas
+
+Calorias Totais dos Lanches: Aproximadamente 300-400 kcal
+
+Calorias Totais do Dia:
+Aproximadamente 1700-1800 kcal, podendo ajustar os lanches para atingir 2000 kcal se necessário.
+
+Essas refeições proporcionam uma boa mistura de carboidratos complexos, proteínas e gorduras saudáveis.
